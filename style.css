@@ -204,7 +204,7 @@ header button::after {
     }
 
     .span-card6 {
-        margin-left: 22%;
+        margin-left: 50px;
     }
 }
 
@@ -443,7 +443,7 @@ footer {
 
 /* media font to full web page */
 
-@media (max-width:450px) {
+@media (max-width:567px) {
     .home {
         display: flex;
         flex-direction: column-reverse;
@@ -467,7 +467,7 @@ footer {
     }
 
     .left-home p {
-        width: 300px;
+        width: 385px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -491,7 +491,7 @@ footer {
     }
 
     .text-1 p {
-        width: 400px;
+        width: 365px;
         text-align: center;
         font-size: 17px;
     }
@@ -506,7 +506,7 @@ footer {
     }
 
     .container {
-        width: 100%;
+        width: 90%;
         margin: auto;
         background: #F0F0F6
     }
